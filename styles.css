@@ -17,7 +17,7 @@ a:hover {color: #f6a623}
 .post-author img {width: 50px; height: 50px; vertical-align: middle;}
 .post-author span {margin-left: 16;}
 .post-date{color: #d2d2d2; font-size: 14px; font-weight: bold; text-transform: uppercase; letter-spacing: 0.1em;}
-h1, h2, h3, h4 {color: #333;}
+h1, h2, h3, h4, h5 {color: #333;}
 p {line-height: 1.5;}
 .About {text-align: center;}
 .post-auther img, .About-author img {border-radius: 50;}
